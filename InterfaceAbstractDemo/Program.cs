@@ -17,7 +17,7 @@ namespace InterfaceAbstractDemo
             customerManager.Save(new Customer
             {
                 DateOfBirth = new DateTime(2001, 1, 8), FirstName = "Yunus Emre", LastName = "Şahin",
-                NationalityId = "59710386942"
+                NationalityId = "12345678901"
             });
             Console.ReadLine();
 
